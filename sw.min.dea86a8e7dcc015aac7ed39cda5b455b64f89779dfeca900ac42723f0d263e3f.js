@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/rgzz2019.github.io/sw.js",{scope:"/rgzz2019.github.io/"})
