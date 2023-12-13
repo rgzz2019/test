@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/ru/categories/</loc>
+    <loc>https://rgzz2019.github.io/test/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://rgzz2019.github.io/test/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="https://rgzz2019.github.io/test/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/categories/"
+                href="https://rgzz2019.github.io/test/ru/categories/"
                 />
   </url><url>
-    <loc>/ru/</loc>
+    <loc>https://rgzz2019.github.io/test/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://rgzz2019.github.io/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://rgzz2019.github.io/test/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/"
+                href="https://rgzz2019.github.io/test/ru/"
                 />
   </url><url>
-    <loc>/ru/tags/</loc>
+    <loc>https://rgzz2019.github.io/test/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://rgzz2019.github.io/test/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://rgzz2019.github.io/test/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/"
+                href="https://rgzz2019.github.io/test/ru/tags/"
                 />
   </url>
 </urlset>
