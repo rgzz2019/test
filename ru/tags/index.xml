@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Book</title>
-    <link>https://rgzz2019.github.io/ru/tags/</link>
+    <link>/ru/tags/</link>
     <description>Recent content in Tags on Hugo Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <atom:link href="https://rgzz2019.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ru/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
